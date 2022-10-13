@@ -1,0 +1,22 @@
+{
+    "name": "indranil/performancecounter",
+    "type": "library",
+    "description": "",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Indranil\\Performancecounter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tas-indranil",
+            "email": "indranil.samanta@totalaisystems.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
